@@ -1,0 +1,10 @@
+Duplicate Lines Finder
+wersja 1.0
+
+Autor: Mateusz "m4tx" M.
+www.m4tx.2ap.pl
+
+Program s³u¿y do wyci¹gania miniatur z plików map gry TrackMania - .Challenge.Gbx.
+
+UWAGA!
+Program nie dzia³a poprawnie bez pliku jpegtran.exe! Bez tego pliku umieszczonego w g³ównym katalogu aplikacji, docelowe obrazy mog¹ byæ odwrócone w pionie! Oprócz tego, œcie¿ka do docelowego obrazu nie mo¿e zawieraæ spacji!

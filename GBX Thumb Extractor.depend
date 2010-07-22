@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1282134523 source:g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\mainsrc.cpp
+	<windows.h>
+	<commctrl2.h>
+	<fstream>
+	<string>
+	<sstream>
+
+1279373094 source:g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\mainrc.rc
+
+1067896398 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\cdjpeg.h
+	"jinclude.h"
+	"jpeglib.h"
+	"jerror.h"
+	"cderror.h"
+
+765210572 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jinclude.h
+	"jconfig.h"
+	<stddef.h>
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<strings.h>
+	<string.h>
+
+1272545102 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jconfig.h
+
+1258371882 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jpeglib.h
+	"jconfig.h"
+	"jmorecfg.h"
+	"jpegint.h"
+	"jerror.h"
+
+1258704084 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jmorecfg.h
+
+1253346684 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jpegint.h
+
+1237933472 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jerror.h
+
+1251466488 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\cderror.h
+
+1251964466 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\transupp.h
+
+1273996950 g:\!_m4tx\c++\projekty\gbx thumb extractor\gbx thumb extractor\jversion.h
+
